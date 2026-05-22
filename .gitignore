@@ -1,0 +1,8 @@
+# Ignore outputs and dataset folders
+outputs/
+dataset/
+
+# Common Python ignores
+__pycache__/
+*.py[cod]
+*.so
